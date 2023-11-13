@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÈÛ8ïÉİ«1
+n
+java:S3008
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8şÉİ«1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8‘Éİ«1
+u
+java:S3012f"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(áÊ¾s8ƒ‘Éİ«1

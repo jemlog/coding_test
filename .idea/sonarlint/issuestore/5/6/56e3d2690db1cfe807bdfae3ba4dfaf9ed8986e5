@@ -1,0 +1,54 @@
+
+v
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(±Šú–8áÑŸë¡1
+‚
+java:S1319&"eThe type of "graph" should be an interface such as "List" rather than the implementation "ArrayList".(Ş½®ü8€îë¡1
+r	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8îë¡1
+m	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¹÷8îë¡1
+r	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»»¦üÿÿÿÿ8îë¡1
+l
+java:S1104""OMake INF a static final constant or non-public and provide accessors if needed.(ùË«à8îë¡1
+o
+java:S1104$"MMake n a static final constant or non-public and provide accessors if needed.(×š‡½üÿÿÿÿ8îë¡1
+o
+java:S1104$"MMake m a static final constant or non-public and provide accessors if needed.(×š‡½üÿÿÿÿ8îë¡1
+s
+java:S1104$"QMake start a static final constant or non-public and provide accessors if needed.(×š‡½üÿÿÿÿ8îë¡1
+o
+java:S1104%"MMake d a static final constant or non-public and provide accessors if needed.(»Á®ıÿÿÿÿ8îë¡1
+n
+java:S1104&"QMake graph a static final constant or non-public and provide accessors if needed.(Ş½®ü8îë¡1
+F
+java:S1444"")Make this "public static INF" field final(ùË«à8îë¡1
+I
+java:S1444$"'Make this "public static n" field final(×š‡½üÿÿÿÿ8îë¡1
+I
+java:S1444$"'Make this "public static m" field final(×š‡½üÿÿÿÿ8îë¡1
+M
+java:S1444$"+Make this "public static start" field final(×š‡½üÿÿÿÿ8îë¡1
+I
+java:S1444%"'Make this "public static d" field final(»Á®ıÿÿÿÿ8îë¡1
+H
+java:S1444&"+Make this "public static graph" field final(Ş½®ü8îë¡1
+i	java:S101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßşÏ‘8‚îë¡1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àğòïúÿÿÿÿ8‚îë¡1
+k
+java:S3008""NRename this field "INF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùË«à8›îë¡1
+`
+java:S1659$">Declare "m" and all following declarations on a separate line.(×š‡½üÿÿÿÿ8›îë¡1
+?
+java:S2386%"Make this member "protected".(»Á®ıÿÿÿÿ8›îë¡1
+:
+java:S2386&"Make this member "protected".(Ş½®ü8›îë¡1
+R
+java:S1854N"5Remove this useless assignment to local variable "M".(ğ¹÷8Ÿîë¡1
+T
+java:S1854b"7Remove this useless assignment to local variable "end".(™ˆİØ8÷¨§ë¡1
+V
+java:S1854a"9Remove this useless assignment to local variable "start".(ìŞÊõ8÷¨§ë¡1
+C
+java:S1481N"&Remove this unused "M" local variable.(ğ¹÷8 îë¡1
+G
+java:S1481a"*Remove this unused "start" local variable.(ìŞÊõ8ù¨§ë¡1
+E
+java:S1481b"(Remove this unused "end" local variable.(™ˆİØ8ù¨§ë¡1

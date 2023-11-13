@@ -1,0 +1,12 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ
+e
+java:S1104"OMake arr a static final constant or non-public and provide accessors if needed.(Š÷ö˜
+?
+java:S1444")Make this "public static arr" field final(Š÷ö˜
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğƒ‚¤ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â‚Ùñıÿÿÿÿ
+9
+java:S2386"Make member "arr" "protected".(ù€ŠËùÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(óô¢ã

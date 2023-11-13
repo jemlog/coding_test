@@ -1,0 +1,9 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Βόÿÿÿÿ8Ψ…’’¬1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(οΘΫ8Ω…’’¬1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(εφ΅½ϊÿÿÿÿ8φ…’’¬1
+]	java:S125H"<This block of commented-out lines of code should be removed.(±Ιριόÿÿÿÿ8ω…’’¬1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Κ‚κX8ω…’’¬1
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(φ²„¤ώÿÿÿÿ8ω…’’¬1
